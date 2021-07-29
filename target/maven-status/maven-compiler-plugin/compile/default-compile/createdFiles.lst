@@ -1,0 +1,4 @@
+ru\zhelenikov\zhelenikov\Application.class
+ru\zhelenikov\zhelenikov\ServletInitializer.class
+ru\zhelenikov\zhelenikov\OAuth2Controller.class
+ru\zhelenikov\zhelenikov\SecurityConfig.class
